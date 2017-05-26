@@ -1,0 +1,9 @@
+.DS_Store
+.DS_Store?
+._*
+target/*a
+*.log
+*.class
+.
+.idea/*
+native-libs/
